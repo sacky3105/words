@@ -1,0 +1,13 @@
+INSERT INTO reviews(
+    title,
+    author,
+    status,
+    score,
+    summary
+) VALUES (
+    'The Prince of Tennis',
+    'Takeshi Konomi',
+    'complete',
+    '5',
+    'Amazing!! What a interesting comic book!!'
+);

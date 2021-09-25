@@ -1,0 +1,9 @@
+INSERT INTO companies(
+    name,
+    establishment_date,
+    founder
+) VALUES (
+    'Apple inc.',
+    '1976-04-first',
+    'Steve Jobs'
+);

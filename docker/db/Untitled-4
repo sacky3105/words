@@ -1,0 +1,11 @@
+INSERT INTO words(
+    word,
+    meaning,
+    purpose,
+    other
+) VALUES (
+    'add.',
+    '加える',
+    'リストなどに値を入れる場合などにも使われる。',
+    '特に、末尾に追加する場合は append、先頭に追加する場合は prepend を使う。Add A to B で、A を B に加える。Remove A from B で、B から A を取り除く。'
+);
